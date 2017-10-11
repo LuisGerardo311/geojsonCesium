@@ -1,0 +1,218 @@
+{
+    "accessors": [
+        {
+            "bufferView": 0,
+            "byteOffset": 12,
+            "componentType": 5126,
+            "count": 2304,
+            "max": [
+                0.9639958739280701,
+                0.9639962315559387,
+                0.9657869338989258
+            ],
+            "min": [
+                -0.9639958739280701,
+                -0.9639962315559387,
+                -0.9657869935035706
+            ],
+            "name": "accessor_buffer_Torus.001_1",
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 0,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 2304,
+            "max": [
+                1.25,
+                1.25,
+                0.25
+            ],
+            "min": [
+                -1.25,
+                -1.25,
+                -0.25
+            ],
+            "name": "accessor_buffer_Torus.001_0",
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 1,
+            "byteOffset": 0,
+            "componentType": 5123,
+            "count": 3456,
+            "max": [
+                2303
+            ],
+            "min": [
+                0
+            ],
+            "name": "accessor_buffer_Torus.001_2",
+            "type": "SCALAR"
+        }
+    ],
+    "asset": {
+        "version": "2.0"
+    },
+    "bufferViews": [
+        {
+            "buffer": 0,
+            "byteLength": 55296,
+            "byteOffset": 0,
+            "byteStride": 24,
+            "name": "bufferView_buffer_Torus.001_0",
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteLength": 6912,
+            "byteOffset": 55296,
+            "name": "bufferView_buffer_Torus.001_1",
+            "target": 34963
+        }
+    ],
+    "buffers": [
+        {
+            "byteLength": 62208,
+            "name": "buffer_combined",
+            "uri": "buffer_combined.bin"
+        }
+    ],
+    "cameras": [
+        {
+            "name": "Camera",
+            "perspective": {
+                "aspectRatio": 1.703595982340029,
+                "yfov": 0.5033799409866333,
+                "zfar": 100.0,
+                "znear": 0.10000000149011612
+            },
+            "type": "perspective"
+        }
+    ],
+    "meshes": [
+        {
+            "name": "Torus.001",
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": 0,
+                        "POSITION": 1
+                    },
+                    "indices": 2,
+                    "mode": 4
+                }
+            ]
+        }
+    ],
+    "nodes": [
+        {
+            "camera": 0,
+            "name": "Camera",
+            "rotation": [
+                0.483536034822464,
+                0.20870360732078552,
+                0.33687159419059753,
+                0.7804827094078064
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "translation": [
+                7.481131553649902,
+                -6.5076398849487305,
+                5.34366512298584
+            ]
+        },
+        {
+            "name": "Lamp",
+            "rotation": [
+                0.16907577216625214,
+                0.27217137813568115,
+                0.7558803558349609,
+                0.570947527885437
+            ],
+            "scale": [
+                -4.867551326751709,
+                -4.867552757263184,
+                -4.867552280426025
+            ],
+            "translation": [
+                4.076245307922363,
+                1.0054539442062378,
+                5.903861999511719
+            ]
+        },
+        {
+            "mesh": 0,
+            "name": "Torus.001",
+            "rotation": [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "scale": [
+                0.6239609122276306,
+                0.6239609122276306,
+                0.6239609122276306
+            ],
+            "translation": [
+                5.852938175201416,
+                -0.6359329223632812,
+                1.9335753917694092
+            ]
+        },
+        {
+            "children": [
+                1,
+                0,
+                2
+            ],
+            "matrix": [
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                -1.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "name": "Scene_root"
+        }
+    ],
+    "samplers": [
+        {
+            "name": "default"
+        }
+    ],
+    "scene": 0,
+    "scenes": [
+        {
+            "extras": {
+                "active_camera": 0,
+                "background_color": [
+                    0.05087608844041824,
+                    0.05087608844041824,
+                    0.05087608844041824
+                ],
+                "frames_per_second": 24
+            },
+            "name": "Scene",
+            "nodes": [
+                3
+            ]
+        }
+    ]
+}
