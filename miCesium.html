@@ -32,7 +32,7 @@ promise.then(function(dataSource2) {
         var name = entity.Elev_in_m;
         var color = colorHash[name];
         if (!color) {
-            color = Cesium.Color.YELLOW; 
+            color = Cesium.Color.PURPLE; 
             colorHash[name] = color;
         }
         entity.polygon.material = color;
