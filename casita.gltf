@@ -1,0 +1,780 @@
+{
+    "accessors": [
+        {
+            "bufferView": 6,
+            "byteOffset": 24,
+            "componentType": 5126,
+            "count": 317,
+            "max": [
+                1.0,
+                1.0
+            ],
+            "min": [
+                0.0,
+                0.0
+            ],
+            "name": "accessor_buffer_Plastico rojo_2",
+            "type": "VEC2"
+        },
+        {
+            "bufferView": 4,
+            "byteOffset": 24,
+            "componentType": 5126,
+            "count": 35100,
+            "max": [
+                0.9760000109672546,
+                0.9179999977350235
+            ],
+            "min": [
+                -0.024000000208616257,
+                -0.0820000171661377
+            ],
+            "name": "accessor_buffer_Obj_twig.002_2",
+            "type": "VEC2"
+        },
+        {
+            "bufferView": 4,
+            "byteOffset": 12,
+            "componentType": 5126,
+            "count": 35100,
+            "max": [
+                0.7728551030158997,
+                0.8639865517616272,
+                0.9947803020477295
+            ],
+            "min": [
+                -0.7721208930015564,
+                -0.7705574631690979,
+                -0.9952043294906616
+            ],
+            "name": "accessor_buffer_Obj_twig.002_1",
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 4,
+            "byteOffset": 32,
+            "componentType": 5126,
+            "count": 35100,
+            "max": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "min": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "name": "accessor_buffer_Obj_twig.002_3",
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 7,
+            "byteOffset": 0,
+            "componentType": 5123,
+            "count": 468,
+            "max": [
+                316
+            ],
+            "min": [
+                0
+            ],
+            "name": "accessor_buffer_Plastico rojo_4",
+            "type": "SCALAR"
+        },
+        {
+            "bufferView": 3,
+            "byteOffset": 0,
+            "componentType": 5123,
+            "count": 35100,
+            "max": [
+                35099
+            ],
+            "min": [
+                0
+            ],
+            "name": "accessor_buffer_Obj_twig.001_4",
+            "type": "SCALAR"
+        },
+        {
+            "bufferView": 2,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 35100,
+            "max": [
+                14.683799743652344,
+                13.916199684143066,
+                34.6416015625
+            ],
+            "min": [
+                -15.849499702453613,
+                -15.392800331115723,
+                0.29258498549461365
+            ],
+            "name": "accessor_buffer_Obj_twig.001_0",
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 0,
+            "byteOffset": 24,
+            "componentType": 5126,
+            "count": 35100,
+            "max": [
+                0.9760000109672546,
+                0.9179999977350235
+            ],
+            "min": [
+                -0.024000000208616257,
+                -0.0820000171661377
+            ],
+            "name": "accessor_buffer_Obj_twig_2",
+            "type": "VEC2"
+        },
+        {
+            "bufferView": 1,
+            "byteOffset": 0,
+            "componentType": 5123,
+            "count": 35100,
+            "max": [
+                35099
+            ],
+            "min": [
+                0
+            ],
+            "name": "accessor_buffer_Obj_twig_4",
+            "type": "SCALAR"
+        },
+        {
+            "bufferView": 2,
+            "byteOffset": 32,
+            "componentType": 5126,
+            "count": 35100,
+            "max": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "min": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "name": "accessor_buffer_Obj_twig.001_3",
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 6,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 317,
+            "max": [
+                4.800000190734863,
+                5.273487567901611,
+                0.6000003814697266
+            ],
+            "min": [
+                -4.799999713897705,
+                -2.0,
+                -6.600000381469727
+            ],
+            "name": "accessor_buffer_Plastico rojo_0",
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 6,
+            "byteOffset": 32,
+            "componentType": 5126,
+            "count": 317,
+            "max": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "min": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "name": "accessor_buffer_Plastico rojo_3",
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 2,
+            "byteOffset": 12,
+            "componentType": 5126,
+            "count": 35100,
+            "max": [
+                0.7728551030158997,
+                0.8639865517616272,
+                0.9947803020477295
+            ],
+            "min": [
+                -0.7721208930015564,
+                -0.7705574631690979,
+                -0.9952043294906616
+            ],
+            "name": "accessor_buffer_Obj_twig.001_1",
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 2,
+            "byteOffset": 24,
+            "componentType": 5126,
+            "count": 35100,
+            "max": [
+                0.9760000109672546,
+                0.9179999977350235
+            ],
+            "min": [
+                -0.024000000208616257,
+                -0.0820000171661377
+            ],
+            "name": "accessor_buffer_Obj_twig.001_2",
+            "type": "VEC2"
+        },
+        {
+            "bufferView": 0,
+            "byteOffset": 12,
+            "componentType": 5126,
+            "count": 35100,
+            "max": [
+                0.7728551030158997,
+                0.8639865517616272,
+                0.9947803020477295
+            ],
+            "min": [
+                -0.7721208930015564,
+                -0.7705574631690979,
+                -0.9952043294906616
+            ],
+            "name": "accessor_buffer_Obj_twig_1",
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 4,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 35100,
+            "max": [
+                14.683799743652344,
+                13.916199684143066,
+                34.6416015625
+            ],
+            "min": [
+                -15.849499702453613,
+                -15.392800331115723,
+                0.29258498549461365
+            ],
+            "name": "accessor_buffer_Obj_twig.002_0",
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 0,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 35100,
+            "max": [
+                14.683799743652344,
+                13.916199684143066,
+                34.6416015625
+            ],
+            "min": [
+                -15.849499702453613,
+                -15.392800331115723,
+                0.29258498549461365
+            ],
+            "name": "accessor_buffer_Obj_twig_0",
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 5,
+            "byteOffset": 0,
+            "componentType": 5123,
+            "count": 35100,
+            "max": [
+                35099
+            ],
+            "min": [
+                0
+            ],
+            "name": "accessor_buffer_Obj_twig.002_4",
+            "type": "SCALAR"
+        },
+        {
+            "bufferView": 6,
+            "byteOffset": 12,
+            "componentType": 5126,
+            "count": 317,
+            "max": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "min": [
+                -1.0,
+                -1.0,
+                -1.0
+            ],
+            "name": "accessor_buffer_Plastico rojo_1",
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 0,
+            "byteOffset": 32,
+            "componentType": 5126,
+            "count": 35100,
+            "max": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "min": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "name": "accessor_buffer_Obj_twig_3",
+            "type": "VEC3"
+        }
+    ],
+    "asset": {
+        "version": "2.0"
+    },
+    "bufferViews": [
+        {
+            "buffer": 0,
+            "byteLength": 1544400,
+            "byteOffset": 0,
+            "byteStride": 44,
+            "name": "bufferView_buffer_Obj_twig_0",
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteLength": 70200,
+            "byteOffset": 1544400,
+            "name": "bufferView_buffer_Obj_twig_1",
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteLength": 1544400,
+            "byteOffset": 1614600,
+            "byteStride": 44,
+            "name": "bufferView_buffer_Obj_twig.001_0",
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteLength": 70200,
+            "byteOffset": 3159000,
+            "name": "bufferView_buffer_Obj_twig.001_1",
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteLength": 1544400,
+            "byteOffset": 3229200,
+            "byteStride": 44,
+            "name": "bufferView_buffer_Obj_twig.002_0",
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteLength": 70200,
+            "byteOffset": 4773600,
+            "name": "bufferView_buffer_Obj_twig.002_1",
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteLength": 13948,
+            "byteOffset": 4843800,
+            "byteStride": 44,
+            "name": "bufferView_buffer_Plastico rojo_0",
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteLength": 936,
+            "byteOffset": 4857748,
+            "name": "bufferView_buffer_Plastico rojo_1",
+            "target": 34963
+        }
+    ],
+    "buffers": [
+        {
+            "byteLength": 4858684,
+            "name": "buffer_combined",
+            "uri": "buffer_combined.bin"
+        }
+    ],
+    "cameras": [
+        {
+            "name": "Camera",
+            "perspective": {
+                "aspectRatio": 1.703595982340029,
+                "yfov": 0.5033799409866333,
+                "zfar": 100.0,
+                "znear": 0.10000000149011612
+            },
+            "type": "perspective"
+        }
+    ],
+    "images": [
+        {
+            "name": "picea_pungens_glauca_",
+            "uri": "picea_pungens_glauca_.png"
+        },
+        {
+            "name": "picea_pungens_glauca_.001",
+            "uri": "picea_pungens_glauca_.001.png"
+        },
+        {
+            "name": "picea_pungens_glauca_.002",
+            "uri": "picea_pungens_glauca_.002.png"
+        }
+    ],
+    "materials": [
+        {
+            "emissiveFactor": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "name": "DefaultShader",
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.22845712304115295,
+                    0.800000011920929,
+                    0.1599111557006836,
+                    0.0
+                ],
+                "baseColorTexture": {
+                    "index": 0,
+                    "texCoord": 0
+                },
+                "metallicFactor": 0.0,
+                "roughnessFactor": 1.0
+            }
+        },
+        {
+            "emissiveFactor": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "name": "DefaultShader.001",
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.22845712304115295,
+                    0.800000011920929,
+                    0.1599111557006836,
+                    0.0
+                ],
+                "baseColorTexture": {
+                    "index": 1,
+                    "texCoord": 0
+                },
+                "metallicFactor": 0.0,
+                "roughnessFactor": 1.0
+            }
+        },
+        {
+            "emissiveFactor": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "name": "DefaultShader.002",
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.22845712304115295,
+                    0.800000011920929,
+                    0.1599111557006836,
+                    0.0
+                ],
+                "baseColorTexture": {
+                    "index": 2,
+                    "texCoord": 0
+                },
+                "metallicFactor": 0.0,
+                "roughnessFactor": 1.0
+            }
+        },
+        {
+            "emissiveFactor": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "name": "Material",
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.800000011920929,
+                    0.6822789907455444,
+                    0.4734884798526764,
+                    1.0
+                ],
+                "metallicFactor": 0.0,
+                "roughnessFactor": 1.0
+            }
+        }
+    ],
+    "meshes": [
+        {
+            "name": "Obj_twig",
+            "primitives": [
+                {
+                    "attributes": {
+                        "COLOR_0": 19,
+                        "NORMAL": 14,
+                        "POSITION": 16,
+                        "TEXCOORD_0": 7
+                    },
+                    "indices": 8,
+                    "material": 0,
+                    "mode": 4
+                }
+            ]
+        },
+        {
+            "name": "Obj_twig.001",
+            "primitives": [
+                {
+                    "attributes": {
+                        "COLOR_0": 9,
+                        "NORMAL": 12,
+                        "POSITION": 6,
+                        "TEXCOORD_0": 13
+                    },
+                    "indices": 5,
+                    "material": 1,
+                    "mode": 4
+                }
+            ]
+        },
+        {
+            "name": "Obj_twig.002",
+            "primitives": [
+                {
+                    "attributes": {
+                        "COLOR_0": 3,
+                        "NORMAL": 2,
+                        "POSITION": 15,
+                        "TEXCOORD_0": 1
+                    },
+                    "indices": 17,
+                    "material": 2,
+                    "mode": 4
+                }
+            ]
+        },
+        {
+            "name": "Plastico rojo",
+            "primitives": [
+                {
+                    "attributes": {
+                        "COLOR_0": 11,
+                        "NORMAL": 18,
+                        "POSITION": 10,
+                        "TEXCOORD_0": 0
+                    },
+                    "indices": 4,
+                    "material": 3,
+                    "mode": 4
+                }
+            ]
+        }
+    ],
+    "nodes": [
+        {
+            "camera": 0,
+            "name": "Camera",
+            "rotation": [
+                0.6292363405227661,
+                0.13491187989711761,
+                0.1883871853351593,
+                0.7418698072433472
+            ],
+            "scale": [
+                0.9999999403953552,
+                1.0,
+                1.0
+            ],
+            "translation": [
+                8.3421630859375,
+                -17.45376968383789,
+                6.2826948165893555
+            ]
+        },
+        {
+            "name": "Lamp.001",
+            "rotation": [
+                0.5807175040245056,
+                0.10719259828329086,
+                0.14648976922035217,
+                0.7936105132102966
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                0.9999999403953552
+            ],
+            "translation": [
+                4.813126564025879,
+                -6.478361129760742,
+                7.728782653808594
+            ]
+        },
+        {
+            "mesh": 0,
+            "name": "Obj_twig",
+            "rotation": [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "scale": [
+                0.3078734874725342,
+                0.1791776418685913,
+                0.1791776418685913
+            ],
+            "translation": [
+                -46.00693893432617,
+                2.1504626274108887,
+                3.687483310699463
+            ]
+        },
+        {
+            "mesh": 1,
+            "name": "Obj_twig.001",
+            "rotation": [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "scale": [
+                0.37451785802841187,
+                0.21796363592147827,
+                0.21796363592147827
+            ],
+            "translation": [
+                -50.78015899658203,
+                12.75243854522705,
+                1.279319405555725
+            ]
+        },
+        {
+            "mesh": 2,
+            "name": "Obj_twig.002",
+            "rotation": [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "scale": [
+                0.3078734874725342,
+                0.1791776418685913,
+                0.1791776418685913
+            ],
+            "translation": [
+                -60.1154670715332,
+                4.513625144958496,
+                2.1013126373291016
+            ]
+        },
+        {
+            "mesh": 3,
+            "name": "Plane",
+            "rotation": [
+                0.7071068286895752,
+                0.0,
+                0.0,
+                0.7071068286895752
+            ],
+            "scale": [
+                0.4922689199447632,
+                0.4922689199447632,
+                0.4922689199447632
+            ],
+            "translation": [
+                2.6043541431427,
+                -3.239107370376587,
+                1.286314606666565
+            ]
+        },
+        {
+            "children": [
+                1,
+                5,
+                0,
+                2,
+                3,
+                4
+            ],
+            "matrix": [
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                -1.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "name": "Scene_root"
+        }
+    ],
+    "samplers": [
+        {
+            "name": "default"
+        }
+    ],
+    "scene": 0,
+    "scenes": [
+        {
+            "extras": {
+                "active_camera": 0,
+                "background_color": [
+                    0.2674482464790344,
+                    0.6731919050216675,
+                    1.0
+                ],
+                "frames_per_second": 25
+            },
+            "name": "Scene",
+            "nodes": [
+                6
+            ]
+        }
+    ],
+    "textures": [
+        {
+            "name": "Tex.001",
+            "sampler": 0,
+            "source": 0
+        },
+        {
+            "name": "Tex.000",
+            "sampler": 0,
+            "source": 1
+        },
+        {
+            "name": "Tex.002",
+            "sampler": 0,
+            "source": 2
+        }
+    ]
+}
