@@ -25,7 +25,7 @@ var entity = viewer.entities.add({
 	//Cesium.Cartesian3.fromDegrees(longitude, latitude, height, ellipsoid, result)
 	position : Cesium.Cartesian3.fromDegrees(-74.095228,  4.559045,0),
    model : {
-   	uri : 'casita2.gltf',
+   	uri : 'casita3.gltf',
         scale:1
      // minimumPixelSize : 128
    }, 
@@ -60,16 +60,16 @@ handler.setInputAction(function(click) {
 
     var pickedObject = scene.pick(click.position);
     if (Cesium.defined(pickedObject) && (pickedObject.id === entity)) {
-        addToMessage('Objeto', pickedObject.id.id);
+        addToMessage('ID del Objeto', pickedObject.id.id);
         var position = viewer.camera.pickEllipsoid(click.position);
-        addToMessage('PosiciÃ³n X', click.position.x);
-        addToMessage('PosiciÃ³n Y', click.position.y);
+        addToMessage('Posicion X', click.position.x);
+        addToMessage('Posicion Y', click.position.y);
         var cartographicPosition = Cesium.Ellipsoid.WGS84.cartesianToCartographic(position);
         addToMessage('Longitud', Cesium.Math.toDegrees(cartographicPosition.longitude));
         addToMessage('Latitud', Cesium.Math.toDegrees(cartographicPosition.latitude));
         terrainSamplePositions = [cartographicPosition];
         
-        entity.label.eyeOffset= new Cesium.Cartesian3(0,20,0);
+        entity.label.eyeOffset= new Cesium.Cartesian3(0,15,0);
         entity.label.show = true;
             entity.label.text = alertText;
     }else{
